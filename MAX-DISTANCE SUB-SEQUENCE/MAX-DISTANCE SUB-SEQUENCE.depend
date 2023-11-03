@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1698988367 source:d:\ttud\max-distance sub-sequence\main.cpp
+	<iostream>
+	<algorithm>
+
